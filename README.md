@@ -1,1 +1,2 @@
 # E-COMMERCE-WEBSITE
+#The purpose of this document is to provide a detailed description of the software requirements for an e-commerce website. The website will allow users to browse products, add them to their shopping cart, and complete transactions. The website will be built using a combination of front-end and back-end technologies, and will be designed to be user-friendly and responsive across multiple.
